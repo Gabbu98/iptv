@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Al Jazeera Live (English) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/30?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",AlmaTV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/27?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Bella Italia (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/26?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Erga Lura TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/29?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Jazz Club (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/25?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",NET [Geo-blocked]
+http://80.79.6.221:25461/smash/public/22?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",ONE [Geo-blocked]
+http://80.79.6.221:25461/smash/public/21?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",One
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Padre Pio TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Parliament TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/23?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Puttinu [Geo-blocked]
+http://80.79.6.221:25461/smash/public/5?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Rock Classics (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/24?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="News",Smash 7News [Geo-blocked]
+http://80.79.6.221:25461/smash/public/16?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash Arabija [Geo-blocked]
+http://80.79.6.221:25461/smash/public/18?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash Country [Geo-blocked]
+http://80.79.6.221:25461/smash/public/11?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash Explore [Geo-blocked]
+http://80.79.6.221:25461/smash/public/17?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash Food [Geo-blocked]
+http://80.79.6.221:25461/smash/public/9?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash House of Rock [Geo-blocked]
+http://80.79.6.221:25461/smash/public/12?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Music",Smash Music [Geo-blocked]
+http://80.79.6.221:25461/smash/public/10?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash Radio 104.6FM [Geo-blocked]
+http://80.79.6.221:25461/smash/public/3?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/1?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash Talk [Geo-blocked]
+http://80.79.6.221:25461/smash/public/15?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",Smash Teleshopping [Geo-blocked]
+http://80.79.6.221:25461/smash/public/2?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="News",TVM News+ [Geo-blocked]
+http://80.79.6.221:25461/smash/public/20?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="Undefined",TVM [Geo-blocked]
+http://80.79.6.221:25461/smash/public/19?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="TimelessDiziChannel.ru" tvg-name="timeless dizi channel" tvg-logo="https://i.imgur.com/s3Sqd4L.png" ,Dizi
+http://193.27.209.122/dizi/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://112.72.4.116/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 ,FOX
+http://45.143.108.110:2203/FOX
+#EXTINF:-1 tvg-id="FoxLife.ru" tvg-name="fox life" tvg-logo="https://i.imgur.com/O2miSLA.png" ,Fox Life
+http://188.237.47.212:6008
+#EXTINF:-1 ,Eurosport 1
+http://109.248.236.51/eurosport1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://193.27.209.122/eurosport1/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://193.27.209.122/eurosport2/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://109.248.236.51/eurosport2/mono.m3u8
+#http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 ,Trace Sport Stars
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 ,KHL Prime
+http://109.248.236.51/khl_prime/mono.m3u8
+#EXTINF:-1 ,Viasat Sport
+http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
+#EXTINF:-1 ,Gags Network
+http://95.67.12.82:9069
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
+http://78.24.180.184:8987/CH_TVOETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
+http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
+#EXTINF:-1 ,СТС
+http://195.49.206.244:90/STS/mono.m3u8?token=video
+#EXTINF:-1 ,СТС (+2)
+http://94.230.128.107:8080/CTC/index.m3u8
+#EXTINF:-1 ,СТС International
+http://109.248.236.51/sts/mono.m3u8
+#EXTINF:-1 ,СТС International
+http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
+#EXTINF:-1 ,СТС Love
+http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
+#EXTINF:-1 ,СТС Love
+http://109.248.236.51/sts_love/mono.m3u8
+#EXTINF:-1 ,СТС Love
+http://185.50.148.2:7706/STSLove/index.m3u8
