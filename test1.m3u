@@ -406,8 +406,11 @@ http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 ,History
-http://38.91.57.12:2082/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BhC8BYn.png" group-title="History",History Channel
+PWdUZHowbUw1RkdidzlTYmhWbWMwTm5MMEV6Y2o5U1oybEdidlV6TTVFak8wTWpMM0lUTXVBRE55NGlNNUV6THZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BhC8BYn.png" group-title="History",History Channel
+NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTDBFemNqOVNaMmxHYnZVek01RWpPME1qTDNJVE11QUROeTRpTTVFekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BhC8BYn.png" group-title="History",History Channel
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,Приключения
