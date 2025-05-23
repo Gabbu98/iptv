@@ -407,7 +407,7 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,History
-http://95.67.12.81:10619
+http://38.91.57.12:2082/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,Приключения
