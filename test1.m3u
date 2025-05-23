@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
-#EXTINF:1 ,Discovery Channel HD orig
-http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/9011/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://salam-spbsedpakt-93.rutube.ru/dive/river-5-552.rutube.ru/LRIELAe3EN40nwDqmS6kFg/stream/genetta-303.m9.rutube.ru/W0AZmpbQZlkMqpc9fXmTsg/1747511144/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
