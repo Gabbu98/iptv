@@ -26,7 +26,7 @@ https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 tvg-id="DisneyXD.us@West" group-title="Kids",Disney XD West (720p)
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network TR" tvg-logo="https://i.postimg.cc/Vkthy5ZW/Cartoon-Network-2010.jpg" group-title="Turkey",Cartoon Network TR
-http://ipflix.click:80/pepsi12203/0OoDbOSYzo/6897
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="Kids",Nickelodeon
 http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
